@@ -5,3 +5,4 @@ joblib
 tensorflow
 scikit-learn
 pydantic
+tensorflow==2.13.0
