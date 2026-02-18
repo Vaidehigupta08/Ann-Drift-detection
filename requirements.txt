@@ -1,9 +1,8 @@
-fastapi
-uvicorn
+
 streamlit
 numpy==1.23.5
 pandas
-scikit-learn
-joblib
+
+
 
 requests
