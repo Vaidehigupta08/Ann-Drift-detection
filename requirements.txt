@@ -1,8 +1,9 @@
 fastapi
 uvicorn
 numpy==1.23.5
-joblib
-tensorflow
+pandas
 scikit-learn
-pydantic
+joblib
 tensorflow==2.13.0
+setuptools
+wheel
