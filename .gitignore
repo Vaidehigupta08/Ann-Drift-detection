@@ -4,6 +4,4 @@ __pycache__/
 *.pkl
 *.h5
 *.csv
-model/*.h5
-model/*.pkl
-model/*.csv
+
