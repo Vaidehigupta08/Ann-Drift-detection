@@ -32,7 +32,7 @@ if uploaded_file is not None:
     }
 
     response = requests.post(
-        "http://localhost:8000/detect_drift",
+        "https://guptavaidehi-ann-project-1.hf.space/detect_drift",
         json=payload,
         timeout=120
     )
